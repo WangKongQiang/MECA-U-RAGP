@@ -9,3 +9,13 @@ Code for Multimodal Emotional Cause Analysis Using Retrieval-Augmented Generatio
 ### Experiment completed. ### November 11th, 2026 ###
 
 ### Upload Evaluation Code. ### November 12th, 2026 ###
+
+### Upload Project Code. ### November 13th, 2026 ###
+
+The complete code has been uploaded successfully.
+
+### The writing of the paper has begun. ### November 15th, 2026 ###
+
+
+
+
