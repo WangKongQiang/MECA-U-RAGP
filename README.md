@@ -1,5 +1,5 @@
 # MECA-U-RAGP
-Code for Multimodal Emotional Cause Analysis Using Retrieval-Augmented Generation Prompts. JEAAI 2027.
+Code for Multimodal Emotional Cause Analysis Using Retrieval-Augmented Generation Prompts. Journal of Emerging Applied Artificial Intelligence, JEAAI 2027.
 ### Progress ### Timeline ###
 
 ### Idea generation. ### November 7th, 2026 ###
